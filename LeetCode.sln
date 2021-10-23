@@ -27,7 +27,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LengthofLastWord", "Lengtho
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlusOne", "PlusOne\PlusOne.csproj", "{20FA4348-DA42-4BB4-BC53-CF06D5249836}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxMin", "MaxMin\MaxMin.csproj", "{4C626A07-FFE2-46DF-A275-A7B947E73E6E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaxMin", "MaxMin\MaxMin.csproj", "{4C626A07-FFE2-46DF-A275-A7B947E73E6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedList", "LinkedList\LinkedList.csproj", "{76A65062-4B4C-4351-95B3-78DF6AB6885C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{4C626A07-FFE2-46DF-A275-A7B947E73E6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4C626A07-FFE2-46DF-A275-A7B947E73E6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4C626A07-FFE2-46DF-A275-A7B947E73E6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76A65062-4B4C-4351-95B3-78DF6AB6885C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76A65062-4B4C-4351-95B3-78DF6AB6885C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76A65062-4B4C-4351-95B3-78DF6AB6885C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76A65062-4B4C-4351-95B3-78DF6AB6885C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
