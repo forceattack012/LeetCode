@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.30717.126
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseInteger", "..\ReverseInteger\ReverseInteger.csproj", "{D65ED265-3D4A-47CB-ABE9-FC19B66E207B}"
 EndProject
@@ -29,7 +29,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlusOne", "PlusOne\PlusOne.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaxMin", "MaxMin\MaxMin.csproj", "{4C626A07-FFE2-46DF-A275-A7B947E73E6E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedList", "LinkedList\LinkedList.csproj", "{76A65062-4B4C-4351-95B3-78DF6AB6885C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinkedList", "LinkedList\LinkedList.csproj", "{76A65062-4B4C-4351-95B3-78DF6AB6885C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidParentheseUseStack", "ValidParentheseUseStack\ValidParentheseUseStack.csproj", "{1721664F-744C-4E92-A991-8B7DD89F31B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeTwoSortedLists", "MergeTwoSortedLists\MergeTwoSortedLists.csproj", "{7DB8A9BC-1079-44C9-8B70-FE7901F3D04C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +97,14 @@ Global
 		{76A65062-4B4C-4351-95B3-78DF6AB6885C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76A65062-4B4C-4351-95B3-78DF6AB6885C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76A65062-4B4C-4351-95B3-78DF6AB6885C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1721664F-744C-4E92-A991-8B7DD89F31B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1721664F-744C-4E92-A991-8B7DD89F31B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1721664F-744C-4E92-A991-8B7DD89F31B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1721664F-744C-4E92-A991-8B7DD89F31B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DB8A9BC-1079-44C9-8B70-FE7901F3D04C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DB8A9BC-1079-44C9-8B70-FE7901F3D04C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DB8A9BC-1079-44C9-8B70-FE7901F3D04C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DB8A9BC-1079-44C9-8B70-FE7901F3D04C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
